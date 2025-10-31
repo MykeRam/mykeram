@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Michael from NYC<br><br>- ✈️ I’m currently working as a Flight Attendant<br>- 📚 I'm currently finishing up the Sofware Engineering program @ TripleTen<br>- ⚡ In my free time I enjoy watching shows and spending time with my girlfriend!</p>
+<p align="left">I'm Michael from NYC<br><br>- ✈️ I’m currently working as a Flight Attendant<br>- 📚 Finishing up the Sofware Engineering program @ TripleTen<br>- ⚡ In my free time I enjoy taking photos, both film and digital, watching shows and spending time with my girlfriend!</p>
 
 ###
 

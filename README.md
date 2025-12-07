@@ -26,7 +26,7 @@
 <p align="left">Hi, I’m Myke — Flight Attendant✈️ transitioning into Software Engineering.
 Currently enrolled in the TripleTen Software Engineering program, building projects with JavaScript, React, and Node.js. Outside of coding, I’m passionate about film and digital photography and love capturing moments from my travels.</p>
 
-###
+---
 
 <h3 align="left">🛠 Language and tools</h3>
 

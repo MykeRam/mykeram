@@ -23,9 +23,10 @@
 
 ###
 
-<p align="left">I'm Michael from NYC<br><br>- ✈️ I’m currently working as a Flight Attendant<br>- 📚 Finishing up the Sofware Engineering program @ TripleTen<br>- ⚡ In my free time I enjoy taking photos, both film and digital, watching shows and spending time with my girlfriend!</p>
+<p align="left">Hi, I’m Myke — Flight Attendant✈️ transitioning into Software Engineering.
+Currently enrolled in the TripleTen Software Engineering program, building projects with JavaScript, React, and Node.js. Outside of coding, I’m passionate about film and digital photography and love capturing moments from my travels.
 
-###
+###</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 

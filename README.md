@@ -11,6 +11,9 @@
   <a href="https://myke.nyc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio site"  />
   </a>
+  <a href="mailto:me@myke.nyc" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email link"  />
+  </a>
 </div>
 
 ###

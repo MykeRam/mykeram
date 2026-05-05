@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/michaelramirezz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://mykeram.github.io/Mykes-Photog/" target="_blank">
+  <a href="https://mykeram.nyc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio site"  />
   </a>
 </div>

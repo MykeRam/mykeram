@@ -27,7 +27,7 @@
 ###
 
 <p align="left">
-  I'm a flight attendant transitioning into software engineering through TripleTen's Software Engineering program. I'm building a strong foundation in full-stack JavaScript development, with hands-on experience creating responsive web pages, interactive front-end applications, RESTful APIs, and database-backed projects. My aviation background has strengthened my communication, adaptability, attention to detail, and ability to stay calm while solving problems under pressure. Outside of coding, I bring a creative eye from film and digital photography, especially moments captured while traveling.
+  I'm a flight attendant transitioning into software engineering through TripleTen's Software Engineering program. I specialize in building responsive web experiences and full-stack JavaScript applications, with hands-on experience developing interactive front ends, RESTful APIs, and database-backed projects. My aviation background has strengthened my communication, adaptability, attention to detail, and ability to solve problems calmly under pressure. Outside of coding, I enjoy film and digital photography, especially capturing moments while traveling.
 </p>
 
 ---
